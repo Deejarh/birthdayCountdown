@@ -1,2 +1,2 @@
-# birthdayCountdown
+# Birthday Countdown
 Birthday Countdown
